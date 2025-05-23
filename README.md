@@ -2,6 +2,11 @@
 
 A secure, SOLID-structured Node.js REST API for Firebase Authentication using the Firebase Admin SDK. This project verifies Firebase ID tokens issued after client-side email/password login.
 
+👤 Author
+Jhourlad Estrella
+Project Manager
+Projedee
+
 ---
 
 ## ✅ Features
@@ -30,3 +35,4 @@ A secure, SOLID-structured Node.js REST API for Firebase Authentication using th
 git clone https://github.com/your-repo/firebase-login.git
 cd firebase-login
 npm install
+
